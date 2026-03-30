@@ -1,21 +1,21 @@
 Handyman Cody — Website Redesign Concept
 
-What this is
-- A conversion-first, mobile-first redesign concept for Cody’s Handyman Services (Wood River Valley, Idaho).
-- Static site (no build step): index.html + styles.css + script.js
+Second pass direction
+- Less generic “AI site”, more deliberate industrial/editorial feel.
+- Based on Design Scout patterns: phrase-build hero, trust-signal marquee, timeline process section, editorial stat interrupts, founder letter, and asymmetric service tiles.
 
-How to preview
-- Open index.html in a browser.
-
-Key edits to make it “official”
-- Replace the placeholder “Project photos” blocks with real job photos.
-- Confirm the address and any licensing/insurance details you want displayed.
-- Remove the “Website redesign concept (demo)” footer line when you’re ready.
-
-Contact info currently used (from public listings / existing site)
-- Phone: (208) 300-0632
-- Email: tollec22@gmail.com
-- Location: Hailey, ID
+Files
+- index.html
+- styles.css
+- script.js
+- favicon.svg
 
 Notes
-- The contact form intentionally opens an email draft (mailto) so the site works on any static host without backend setup.
+- No stock photography used.
+- Contact form stays static-host friendly by opening a mail draft.
+- Footer still says “Website redesign concept (demo)” until you want it presented as official.
+
+Still needed before final pitch
+- Real project photos (6–12 would go a long way)
+- Confirm whether Cody wants license / insurance details displayed more explicitly
+- Optional: connect the request form to Formspree or another backend if you want true form submits
